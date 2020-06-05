@@ -1,0 +1,1204 @@
+Uri: http://www.gurbanifiles.net/
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/gurmukhi/index.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/devanagari/index.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/translations/index.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/special_bani/index.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/bani_by_author/index.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/shahmukhi/index.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\shahmukhi\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/unicode/index.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/other/index.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/pocket_pc/index.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\index.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/gurbani_cd.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurbani_cd.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/intro.html
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\intro.html
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/links.html
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\links.html
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/acknow.html
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\acknow.html
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Siri Guru Granth Sahib in Gurmukhi, with Index (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Siri Guru Granth Sahib in Gurmukhi, with Index (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Siri Guru Granth Sahib without Index (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Siri Guru Granth Sahib without Index (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/GuruGranth Darpan by Prof Sahib Singh (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\GuruGranth Darpan by Prof Sahib Singh (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/GuruGranth Darpan by Prof Sahib Singh.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\GuruGranth Darpan by Prof Sahib Singh.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/SGGS Kosh by Dr Gurcharan Singh.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\SGGS Kosh by Dr Gurcharan Singh.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/SGGS Kosh by Dr Gurcharan Singh.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\SGGS Kosh by Dr Gurcharan Singh.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/All Words from Siri Guru Granth Sahib Gurm (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\All Words from Siri Guru Granth Sahib Gurm (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/All Words from Siri Guru Granth Sahib Gurm (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\All Words from Siri Guru Granth Sahib Gurm (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Index of All Words in Siri Guru Granth Sahib, Gurm (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Index of All Words in Siri Guru Granth Sahib, Gurm (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Index of All Words in Siri Guru Granth Sahib, Gurm (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Index of All Words in Siri Guru Granth Sahib, Gurm (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Sentence by Sentence SGGS in Gurmukhi with Page Line Raag Aut.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Sentence by Sentence SGGS in Gurmukhi with Page Line Raag Aut.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Sentence by Sentence SGGS in Gurmukhi with Page Line Raag Aut.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Sentence by Sentence SGGS in Gurmukhi with Page Line Raag Aut.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Alphabetized SBS SGGS with Page Line, Gurmukhi (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Alphabetized SBS SGGS with Page Line, Gurmukhi (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Alphabetized SBS SGGS with Page Line, Gurmukhi (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Alphabetized SBS SGGS with Page Line, Gurmukhi (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Gurbani Kirtan in Gurmukhi (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Gurbani Kirtan in Gurmukhi (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Gurbani Kirtan in Gurmukhi (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Gurbani Kirtan in Gurmukhi (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Nitnem in Gurmukhi (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Nitnem in Gurmukhi (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Nitnem in Gurmukhi (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Nitnem in Gurmukhi (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Kabit by Bhai Gurdaas, Gurmukhi (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Kabit by Bhai Gurdaas, Gurmukhi (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Kabit by Bhai Gurdaas, Gurmukhi.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Kabit by Bhai Gurdaas, Gurmukhi.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Vaaraan by Bhai Gurdaas, Gurmukhi (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Vaaraan by Bhai Gurdaas, Gurmukhi (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Vaaraan by Bhai Gurdaas, Gurmukhi.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Vaaraan by Bhai Gurdaas, Gurmukhi.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Dukh Bhanjani in Gurmukhi.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Dukh Bhanjani in Gurmukhi.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Dukh Bhanjani, Gurmukhi.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Dukh Bhanjani, Gurmukhi.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Chopae in Gurmukhi (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Chopae in Gurmukhi (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Chopae in Gurmukhi.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Chopae in Gurmukhi.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Maansarovar.doc
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Maansarovar.doc
+Content Type: application/msword
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Maansarovar.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Maansarovar.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/gurmukhi/word.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\word.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/gurmukhi/Image4.gif
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\gurmukhi\Image4.gif
+Content Type: image/gif
+
+Uri: http://www.gurbanifiles.net/devanagari/Siri Guru Granth Sahib in Devanagari, with index (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Siri Guru Granth Sahib in Devanagari, with index (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/devanagari/Siri Guru Granth Saahib in Devanagari with Index (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Siri Guru Granth Saahib in Devanagari with Index (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/devanagari/Guru Granth Darpan in Hindi (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Guru Granth Darpan in Hindi (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/devanagari/Guru Granth Darpan in Hindi (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Guru Granth Darpan in Hindi (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/devanagari/All Words from Siri Guru Granth Sahib Devan (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\All Words from Siri Guru Granth Sahib Devan (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/devanagari/All Words from Siri Guru Granth Sahib Devan (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\All Words from Siri Guru Granth Sahib Devan (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/devanagari/Index of All Words in Siri Guru Granth Sahib, Devan (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Index of All Words in Siri Guru Granth Sahib, Devan (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/devanagari/Index of All Words in Siri Guru Granth Sahib, Devan (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Index of All Words in Siri Guru Granth Sahib, Devan (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/devanagari/Sentence by Sentence SGGS, with Page Line Raag Auth, Devan.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Sentence by Sentence SGGS, with Page Line Raag Auth, Devan.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/devanagari/Sentence by Sentence SGGS, with Page Line Raag Auth, Devan.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Sentence by Sentence SGGS, with Page Line Raag Auth, Devan.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/devanagari/Alphabetized SBS SGGS with Page Line, Devan (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Alphabetized SBS SGGS with Page Line, Devan (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/devanagari/Alphabetized SBS SGGS with Page Line, Devan (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Alphabetized SBS SGGS with Page Line, Devan (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/devanagari/Gurbani Kirtan in Devnagri.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Gurbani Kirtan in Devnagri.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/devanagari/Nitnem in Devanagari, Uni.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Nitnem in Devanagari, Uni.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/devanagari/Nitnem in Devanagari, Uni.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Nitnem in Devanagari, Uni.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/devanagari/Kabit by Bhai Gurdaas, Devanagari.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Kabit by Bhai Gurdaas, Devanagari.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/devanagari/Kabit by Bhai Gurdaas, Devanagari.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Kabit by Bhai Gurdaas, Devanagari.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/devanagari/Vaaran by Bhai Gurdaas, Devanagari.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Vaaran by Bhai Gurdaas, Devanagari.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/devanagari/Vaaraan by Bhai Gurdaas, Devanagari.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Vaaraan by Bhai Gurdaas, Devanagari.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/devanagari/word.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\word.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/devanagari/Image4.gif
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\devanagari\Image4.gif
+Content Type: image/gif
+
+Uri: http://www.gurbanifiles.net/translations/English Translation of Siri Guru Granth Sahib.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\English Translation of Siri Guru Granth Sahib.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/English Translation of Siri Guru Granth Sahib.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\English Translation of Siri Guru Granth Sahib.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Gurmukhi to English translation of SGGS, page by page.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurmukhi to English translation of SGGS, page by page.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Siri Guru Granth Sahib, Romanized.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Siri Guru Granth Sahib, Romanized.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Siri Guru Granth Sahib, Romanized.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Siri Guru Granth Sahib, Romanized.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Gurmukhi to English translation of SGGS, SBS (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurmukhi to English translation of SGGS, SBS (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Gurmukhi to English translation of SGGS, sentence by sentence.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurmukhi to English translation of SGGS, sentence by sentence.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Gurmukhi to English translation & transliterat of SGGS, SBS (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurmukhi to English translation & transliterat of SGGS, SBS (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Devanagari to English translation of SGGS, sentence by senten (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Devanagari to English translation of SGGS, sentence by senten (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Devnagri to English translation & transliterat of SGGS, SBS (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Devnagri to English translation & transliterat of SGGS, SBS (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Devanagari to English translation & transliterat of SGGS, SBS.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Devanagari to English translation & transliterat of SGGS, SBS.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Gurbani Kirtan in Gurmukhi (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurbani Kirtan in Gurmukhi (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Gurbani Kirtan in Gurmukhi (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurbani Kirtan in Gurmukhi (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Gurbani Kirtan with English transl & translit, Gurm,R.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurbani Kirtan with English transl & translit, Gurm,R.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Gurbani Kirtan with English transl & translit, Gurm,T.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurbani Kirtan with English transl & translit, Gurm,T.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Gurbani Kirtan with English transl & translit, Gurm,T.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurbani Kirtan with English transl & translit, Gurm,T.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Gurbani Kirtan with English transl & translit, Devan, R.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurbani Kirtan with English transl & translit, Devan, R.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Gurbani Kirtan with English transl & translit, Devan, R.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Gurbani Kirtan with English transl & translit, Devan, R.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Nitnem in Gurmukhi with Transliteration & English Translation (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Nitnem in Gurmukhi with Transliteration & English Translation (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Nitnem in Gurmukhi with Transliteration & English Translation (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Nitnem in Gurmukhi with Transliteration & English Translation (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Nitnem by Dr. Kulwant Singh, with Punjabi & Eng transla & PT.docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Nitnem by Dr. Kulwant Singh, with Punjabi & Eng transla & PT.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Nitnem by Dr. Kulwant Singh, with Punjabi & Eng transla & PT.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Nitnem by Dr. Kulwant Singh, with Punjabi & Eng transla & PT.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/Nitnem in Devanagari with Transliteration & English Translation (Uni).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Nitnem in Devanagari with Transliteration & English Translation (Uni).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/translations/Nitnem in Devanagari with Transliteration & English Translation (Uni).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Nitnem in Devanagari with Transliteration & English Translation (Uni).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/translations/word.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\word.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/translations/Image4.gif
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\translations\Image4.gif
+Content Type: image/gif
+
+Uri: http://www.gurbanifiles.net/special_bani/Aasaa Dee Vaar (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Aasaa Dee Vaar (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Aasaa Dee Vaar (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Aasaa Dee Vaar (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Aasaa Dee Vaar with Chhant (GRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Aasaa Dee Vaar with Chhant (GRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Aasaa Dee Vaar with Chhant (GRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Aasaa Dee Vaar with Chhant (GRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/AnadSahib (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\AnadSahib (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/AnadSahib (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\AnadSahib (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Baareh Maahaa Maajh (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Baareh Maahaa Maajh (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Baareh Maahaa Maajh (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Baareh Maahaa Maajh (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Baareh Maahaa Tuhaaree (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Baareh Maahaa Tuhaaree (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Baareh Maahaa Tuhaaree (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Baareh Maahaa Tuhaaree (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Laavaan-1 (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Laavaan-1 (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Laavaan-1 (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Laavaan-1 (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Mundaavanee (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Mundaavanee (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Mundaavanee(GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Mundaavanee(GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Oankaar (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Oankaar (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Oankaar (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Oankaar (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Rehraas Sahib (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Rehraas Sahib (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Rehraas Sahib (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Rehraas Sahib (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Shabad Hazaaray (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Shabad Hazaaray (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Shabad Hazaaray (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Shabad Hazaaray (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Sidh Gosat (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Sidh Gosat (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Sidh Gosat (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Sidh Gosat (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Slok Mehlaa 9 (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Slok Mehlaa 9 (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Slok Mehlaa 9 (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Slok Mehlaa 9 (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Slok Vaaraan Te Vadeek (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Slok Vaaraan Te Vadeek (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Slok Vaaraan Te Vadeek (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Slok Vaaraan Te Vadeek (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Sohilaa (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Sohilaa (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Sohilaa (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Sohilaa (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/Sukhmanee Sahib (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Sukhmanee Sahib (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/special_bani/Sukhmanee Sahib (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Sukhmanee Sahib (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/special_bani/word.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\word.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/special_bani/Image4.gif
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\special_bani\Image4.gif
+Content Type: image/gif
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Nanak Dev (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Nanak Dev (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Nanak Dev (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Nanak Dev (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Angad Dev (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Angad Dev (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Angad Dev (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Angad Dev (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Amardas (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Amardas (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Amardas (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Amardas (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Ramdas (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Ramdas (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Ramdas (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Ramdas (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Arjan Dev (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Arjan Dev (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Arjan Dev (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Arjan Dev (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Teg Bahadar (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Teg Bahadar (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Guru Teg Bahadar (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Guru Teg Bahadar (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Kabir (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Kabir (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Kabir (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Kabir (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Farid (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Farid (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Farid (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Farid (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Naamdev (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Naamdev (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Naamdev (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Naamdev (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Ravidaas (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Ravidaas (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Ravidaas (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Ravidaas (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Bainnee (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Bainnee (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Bainnee (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Bainnee (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Balwand & Sata (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Balwand & Sata (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Balwand & Sata (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Balwand & Sata (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Trilochan (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Trilochan (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Trilochan (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Trilochan (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Baba Sundar (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Baba Sundar (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Baba Sundar (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Baba Sundar (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Jaidev (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Jaidev (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Jaidev (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Jaidev (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Dhanaa (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Dhanaa (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Dhanaa (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Dhanaa (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Mardana (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Mardana (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Mardana (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Mardana (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Bheekhan (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Bheekhan (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Bheekhan (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Bheekhan (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Raamaanand (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Raamaanand (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Raamaanand (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Raamaanand (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Saadhanaa (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Saadhanaa (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Saadhanaa (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Saadhanaa (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Parmaanand (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Parmaanand (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Parmaanand (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Parmaanand (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Sainn (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Sainn (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Sainn (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Sainn (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Soordaas (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Soordaas (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Soordaas (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Soordaas (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Peepaa (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Peepaa (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Peepaa (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Peepaa (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Bhatt Bani (GDRE).docx
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Bhatt Bani (GDRE).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Bhatt Bani (GDRE).pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Bhatt Bani (GDRE).pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/bani_by_author/word.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\word.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/bani_by_author/Image4.gif
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\bani_by_author\Image4.gif
+Content Type: image/gif
+
+Uri: http://www.gurbanifiles.net/shahmukhi/Gurm-Urdu, SGGS-SBS.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\shahmukhi\Gurm-Urdu, SGGS-SBS.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/shahmukhi/Image4.gif
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\shahmukhi\Image4.gif
+Content Type: image/gif
+
+Uri: http://www.gurbanifiles.net/unicode/unicode_issues.htm
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\unicode_issues.htm
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/unicode/Sample.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Sample.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/unicode/AnmolUni.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AnmolUni.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AnmolUni-Bold.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AnmolUni-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AnmolUniHeavy.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AnmolUniHeavy.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AnmolUniBani.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AnmolUniBani.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/Fonts_AnmolUni.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Fonts_AnmolUni.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/unicode/Akaash.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Akaash.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/Akaash-Bold.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Akaash-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarKalmi.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarKalmi.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarNarrow.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarNarrow.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarNeon.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarNeon.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarOutlined.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarOutlined.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarRaised.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarRaised.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarUbhri.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarUbhri.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarSlim.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarSlim.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/ChatrikUni.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\ChatrikUni.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarLight.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarLight.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarLight-Bold.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarLight-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/AmbarShadow.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\AmbarShadow.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/Gurmukhi-UCSB-Uni.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Gurmukhi-UCSB-Uni.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/Oankaar.ttf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Oankaar.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.gurbanifiles.net/unicode/all_fonts.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\all_fonts.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/unicode/Punjabi_KB my best.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Punjabi_KB my best.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/unicode/Punjabi_KB (based on AnmolLipi).zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Punjabi_KB (based on AnmolLipi).zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/unicode/Punjabi_KB (based on DRChatrik).zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Punjabi_KB (based on DRChatrik).zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/unicode/Punjabi_KB (based on Asees).zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Punjabi_KB (based on Asees).zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/unicode/US_English Custom keyboard.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\US_English Custom keyboard.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/unicode/Hindi_KB_by_Dr_Thind.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\Hindi_KB_by_Dr_Thind.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/unicode/instruct.html
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\instruct.html
+Content Type: text/html
+
+Uri: http://www.gurbanifiles.net/unicode/howto_.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\howto_.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/unicode/paireen_ch.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\paireen_ch.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/unicode/spl_ch.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\spl_ch.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/other/SGGS in Spanish.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\SGGS in Spanish.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Transliteration Equivalents.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Transliteration Equivalents.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Transliteration Equivalents.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Transliteration Equivalents.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/other/SGGS Pages.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\SGGS Pages.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/SGGS Pages.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\SGGS Pages.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/other/Sorting Order Schemes.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Sorting Order Schemes.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Sorting Order Schemes.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Sorting Order Schemes.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/other/Text Trivia.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Text Trivia.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Text Trivia.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Text Trivia.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/other/Hints for doing searches of SGGS text.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Hints for doing searches of SGGS text.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Hints for doing Searches.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Hints for doing Searches.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/other/Translation Comparison.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Translation Comparison.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Translation Comparison.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Translation Comparison.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/other/Useful Fonts Manual.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Useful Fonts Manual.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Useful Fonts Manual.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Useful Fonts Manual.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/other/Important Note Regarding Use of Fonts.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Important Note Regarding Use of Fonts.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Important Note Regarding Use of Fonts.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Important Note Regarding Use of Fonts.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/other/Keyboard Maps.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Keyboard Maps.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Keyboard Maps.sit
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Keyboard Maps.sit
+Content Type: application/x-stuffit
+
+Uri: http://www.gurbanifiles.net/other/Fonts_TT.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Fonts_TT.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Fonts_TT.sit
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Fonts_TT.sit
+Content Type: application/x-stuffit
+
+Uri: http://www.gurbanifiles.net/other/Fonts_PS.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Fonts_PS.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/BASIC_FACTS_TEN_GURUS.zip
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\BASIC_FACTS_TEN_GURUS.zip
+Content Type: application/zip
+
+Uri: http://www.gurbanifiles.net/other/Image3.gif
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Image3.gif
+Content Type: image/gif
+
+Uri: http://www.gurbanifiles.net/other/Image4.gif
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\other\Image4.gif
+Content Type: image/gif
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SGGS_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SGGS_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Nitnem_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Nitnem_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Nitnem_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Nitnem_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Nitnem_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Nitnem_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/AasaaDV_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\AasaaDV_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/AasaaDV_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\AasaaDV_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/AasaaDV_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\AasaaDV_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/AnandS_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\AnandS_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/AnandS_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\AnandS_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/AnandS_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\AnandS_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/BaarahMM_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\BaarahMM_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/BaarahMM_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\BaarahMM_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/BaarahMM_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\BaarahMM_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/BaarahMT_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\BaarahMT_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/BaarahMT_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\BaarahMT_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/BaarahMT_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\BaarahMT_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Chopae_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Chopae_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Japjee_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Japjee_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Japjee_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Japjee_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Japjee_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Japjee_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Japjee_GRGE_M.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Japjee_GRGE_M.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Laavaan_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Laavaan_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Laavaan_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Laavaan_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Laavaan_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Laavaan_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Mundaavani_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Mundaavani_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Mundaavani_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Mundaavani_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Mundaavani_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Mundaavani_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Oankaar_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Oankaar_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Rehraas_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Rehraas_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Rehraas_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Rehraas_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Rehraas_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Rehraas_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SbdHazare_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SbdHazare_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SbdHazare_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SbdHazare_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SbdHazare_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SbdHazare_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SidhGost_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SidhGost_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SidhGost_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SidhGost_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SidhGost_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SidhGost_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SlokM9_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SlokM9_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SlokM9_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SlokM9_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/SlokM9_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\SlokM9_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Sohila_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Sohila_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Sohila_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Sohila_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Sohila_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Sohila_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Sukhmani_G.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Sukhmani_G.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Sukhmani_GE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Sukhmani_GE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/Sukhmani_GRE.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\Sukhmani_GRE.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_1-100.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_1-100.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_101-200.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_101-200.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_201-300.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_201-300.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_301-400.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_301-400.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_401-500.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_401-500.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_501-600.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_501-600.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_601-700.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_601-700.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_701-800.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_701-800.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_801-900.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_801-900.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_901-1000.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_901-1000.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_1001-1100.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_1001-1100.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_1101-1200.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_1101-1200.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_1201-1300.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_1201-1300.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/pocket_pc/darpan_1301-1430.pdf
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\pocket_pc\darpan_1301-1430.pdf
+Content Type: application/pdf
+
+Uri: http://www.gurbanifiles.net/unicode/image4a.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\image4a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/unicode/image1.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\image1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/unicode/image2.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\image2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/unicode/image3.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\image3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/unicode/image4.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\image4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.gurbanifiles.net/unicode/image5.jpg
+File Name: c:\Downloaded Web Sites\www.gurbanifiles.net\unicode\image5.jpg
+Content Type: image/jpeg
+

@@ -1,0 +1,4728 @@
+Uri: http://www.sikhs.org/
+File Name: c:\Downloaded Web Sites\www.sikhs.org\index.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/sikhs.css
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sikhs.css
+Content Type: text/css
+
+Uri: http://www.sikhs.org/topics.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\topics.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/about.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\about.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/contact.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\contact.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/Sikhs_org1.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\Sikhs_org1.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/images/NishanHome1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\NishanHome1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/nav_bg1.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\nav_bg1.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/images/footer_bg1.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\footer_bg1.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/images/body_top1.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\body_top1.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/images/body_bottom1.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\body_bottom1.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/images/body_sides1.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\body_sides1.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/images/box_bg1.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\box_bg1.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/images/arrow_right1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\arrow_right1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/english/pattern1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\pattern1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/summary.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\summary.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/topics1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\topics1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/topics2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\topics2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/topics3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\topics3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/topics4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\topics4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/kworld2.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\kworld2.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/images/gquote1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\gquote1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/images/sm_kirpan.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\sm_kirpan.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/nishan1-1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\nishan1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/nishan1-2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\nishan1-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/nishan1-3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\nishan1-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/gutka.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\gutka.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/kara.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\kara.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/images/kanga.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\kanga.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/banner_sm1.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\banner_sm1.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/images/question.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\question.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/bullet_k.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\bullet_k.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/10gurus.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\10gurus.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/saints.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\saints.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/hgurd.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\hgurd.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/tpic1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\tpic1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/philos.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\philos.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/granth.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\granth.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/religion.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\religion.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/women.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\women.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/tpic2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\tpic2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwara.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwara.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/khalsa.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\khalsa.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/rehit.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\rehit.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/khanda.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\khanda.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/fest.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\fest.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/dates.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\dates.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/index.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\index.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/tpic3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\tpic3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/glossary.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\glossary.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurmukhi.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art.htm
+Content Type: 
+
+Uri: http://www.sikhs.org/images/tpic5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\tpic5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/guru1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/guru2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/guru3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/guru4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/guru5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/guru6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/guru7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/guru8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/guru9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/guru10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\guru10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/gurus.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\gurus.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/caution.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\caution.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/images/at_work.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\at_work.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/images/bullet_o.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\bullet_o.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/guru1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/famous.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\famous.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/t_gurdw.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\t_gurdw.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/zafarnama.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\zafarnama.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/matha1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\matha1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/granth1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\granth1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/granth2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\granth2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/granth3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\granth3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_table.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_table.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/granth_a.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\granth_a.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/frame.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\frame.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/granthi1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\granthi1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/japji/japji.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\japji.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl11.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl11.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/transl12.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\transl12.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_qa.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_qa.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_h.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_h.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_m.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_m.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_se.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_se.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_b.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_b.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_y.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_y.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_j.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_j.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_su.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_su.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_bk.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_bk.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/women_q.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\women_q.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/women_h.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\women_h.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdw1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdw1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/temple1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\temple1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/sikh_q.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sikh_q.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/sikh_au.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sikh_au.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art12.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art12.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/nosymbol.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\nosymbol.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/khalsa3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\khalsa3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/2women.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\2women.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/reht1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\reht1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/reht2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\reht2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/reht3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\reht3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/reht4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\reht4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/reht5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\reht5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/reht6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\reht6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/ragis.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\ragis.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/b_khanda.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\b_khanda.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/images/b_onkar.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\b_onkar.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/wedding/index.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\index.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/b_wedding.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\b_wedding.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/images/ybullet.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\ybullet.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/memories/in1.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\in1.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/in2.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\in2.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/in3.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\in3.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/in4.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\in4.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/in5.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\in5.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ww1/index.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ww1\index.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/100th/index.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\index.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/images/categories1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\categories1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/memories/images/ban_ww1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\ban_ww1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/memories/images/centennial1a.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\centennial1a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gloss1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gloss1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gloss2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gloss2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gloss3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gloss3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gloss4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gloss4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/pray3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\pray3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurmukhi/al1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al2.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al2.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al3.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al3.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al4.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al4.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al5.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al5.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al6.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al6.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al7.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al7.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al8.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al8.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al9.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al9.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al10.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al10.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al11.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al11.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al12.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al12.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al13.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al13.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al14.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al14.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al15.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al15.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al16.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al16.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al17.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al17.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al18.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al18.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al19.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al19.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al20.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al20.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al21.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al21.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al22.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al22.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al23.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al23.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al24.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al24.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al25.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al25.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al26.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al26.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al27.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al27.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al28.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al28.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al29.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al29.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al30.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al30.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al31.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al31.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al32.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al32.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al33.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al33.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al34.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al34.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al35.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al35.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al36.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al36.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al37.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al37.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al38.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al38.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al39.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al39.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al40.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al40.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al51.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al51.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al52.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al52.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al53.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al53.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al54.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al54.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al55.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al55.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al56.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al56.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al57.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al57.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al58.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al58.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al59.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al59.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al41.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al41.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al42.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al42.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al43.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al43.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al44.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al44.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al45.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al45.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al46.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al46.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al47.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al47.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al48.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al48.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al49.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al49.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al50.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al50.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al60.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al60.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al61.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al61.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al62.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al62.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al63.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al63.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al64.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al64.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurmukhi/al65.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurmukhi\al65.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/names1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names11.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names11.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names12.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names12.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names13.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names13.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names14.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names14.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names15.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names15.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names16.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names16.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names17.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names17.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names18.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names18.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names19.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names19.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names20.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names20.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names21.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names21.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names22.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names22.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names23.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names23.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names24.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names24.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names25.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names25.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names26.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names26.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/names27.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\names27.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ya0.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya0.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art11.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art11.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/meat.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\meat.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/art8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\art8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/guru1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/guru2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/guru3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/guru4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/guru5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/guru6.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/guru7.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/guru8.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/guru9.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/guru10.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\guru10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/guru1_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru1_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru1_2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru1_2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru1_3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru1_3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru1_4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru1_4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru1_5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru1_5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru1_6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru1_6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru1_7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru1_7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru2_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru2_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/guru2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\guru2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/bullet_k.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\bullet_k.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/guru3_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru3_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru3_2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru3_2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru3_3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru3_3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/guru3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\guru3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/guru4_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru4_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru4_2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru4_2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/guru4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\guru4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/guru5_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru5_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru5_2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru5_2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru5_3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru5_3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru5_4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru5_4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru5_5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru5_5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru5_6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru5_6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru5_7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru5_7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru5_8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru5_8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/guru5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\guru5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_11.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_11.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_12.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_12.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru6_13.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru6_13.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/guru6.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\guru6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/guru7_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru7_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/guru7.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\guru7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/guru8_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru8_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/guru8.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\guru8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/guru9_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru9_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru9_2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru9_2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru9_3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru9_3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru9_4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru9_4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru9_5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru9_5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/guru9.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\guru9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_11.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_11.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_12.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_12.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_13.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_13.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_14.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_14.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_15.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_15.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_16.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_16.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_17.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_17.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_18.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_18.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_19.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_19.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_20.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_20.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_21.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_21.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_22.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_22.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_23.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_23.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_24.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_24.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/guru10_25.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\guru10_25.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/guru10.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\guru10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/fam1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\fam1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/fam2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\fam2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/fam3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\fam3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/fam4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\fam4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/fam5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\fam5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/fam6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\fam6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gr_in11.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in11.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/english.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\english.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/compare.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\compare.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg_index.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg_index.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/boyreading1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\boyreading1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/english/ball_o.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\ball_o.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/english/bullet_o.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\bullet_o.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/jp1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp11.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp11.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp12.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp12.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp13.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp13.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp14.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp14.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp15.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp15.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp16.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp16.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp17.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp17.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp18.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp18.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp19.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp19.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp20.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp20.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp21.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp21.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp22.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp22.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp23.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp23.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp24.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp24.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp25.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp25.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp26.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp26.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp27.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp27.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp28.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp28.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp29.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp29.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp30.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp30.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp31.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp31.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp32.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp32.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp33.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp33.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp34.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp34.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp35.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp35.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp36.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp36.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp37.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp37.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/jp38.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\jp38.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/slok.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\slok.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_qh.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_qh.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_qm.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_qm.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/relig_qy.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\relig_qy.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/w_bibinanaki1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\w_bibinanaki1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/w_matakhivi.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\w_matakhivi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/w_missionaries.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\w_missionaries.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/w_facingwahe.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\w_facingwahe.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/w_matagujari.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\w_matagujari.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/w_maibhago.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\w_maibhago.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/w_matajito.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\w_matajito.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/w_sahibkaur.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\w_sahibkaur.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/w_matasundari.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\w_matasundari.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/golden/
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\index.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/images/golden0b.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\golden0b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/ak2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\ak2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/damdama3a.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\damdama3a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/anandpur1a.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\anandpur1a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/hazur1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\hazur1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/images/patna1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\images\patna1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed1.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed1.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed2.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed2.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed3.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed3.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed4.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed4.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed5.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed5.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed6.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed6.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed7.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed7.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed8.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed8.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed9.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed9.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed10.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed10.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed_title1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed_title1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/wedding/wed46.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed46.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed45.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed45.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/photo_29.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_29.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_30.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_30.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_31.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_31.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_32.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_32.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_22.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_22.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_18.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_18.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/images/title.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\title.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/memories/images/b_akali.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_akali.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_gujranwalajats.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_gujranwalajats.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_lahorejats1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_lahorejats1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_raja1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_raja1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_26regiment.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_26regiment.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_raghbir.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_raghbir.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/photo_1.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_1.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_13.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_13.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_24.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_24.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_21.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_21.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_20.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_20.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_26.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_26.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_14.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_14.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_27.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_27.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_2.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_2.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_23.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_23.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_3.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_3.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_4.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_4.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/images/b_bigfam.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_bigfam.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_caval.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_caval.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_officers.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_officers.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_3coronation.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_3coronation.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_1coronation.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_1coronation.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_railwayw.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_railwayw.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_hast.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_hast.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_ragis.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_ragis.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_group.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_group.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_budhsingh.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_budhsingh.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_aristo.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_aristo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_family.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_family.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/photo_15.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_15.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_16.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_16.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_17.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_17.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_5.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_5.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_6.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_6.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/images/b_victor.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_victor.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_komag.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_komag.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_ww1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_ww1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_grewal.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_grewal.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_funer.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_funer.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/photo_25.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_25.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_7.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_7.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_8.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_8.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_28.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_28.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_9.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_9.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/images/b_meharfamily.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_meharfamily.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/memories/images/b_gill.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_gill.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_coup.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_coup.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_womengr.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_womengr.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_gillfa.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_gillfa.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/photo_10.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_10.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_11.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_11.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/photo_12.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\photo_12.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/images/b_stud.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_stud.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_harch.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_harch.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/b_tiger.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\b_tiger.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/ww1/collage1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ww1\collage1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/ww1/ani_graves.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ww1\ani_graves.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/ww1/ani_1914m1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ww1\ani_1914m1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/ww1/marchtitle.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ww1\marchtitle.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/100th/part1.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\part1.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/100th/part2.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\part2.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/100th/part3.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\part3.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/100th/part4.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\part4.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/100th/part5.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\part5.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/100th/part6.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\part6.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/100th/bibliography.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\bibliography.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/100th/images/centennial1a.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\centennial1a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/stamp1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\stamp1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/kesur1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\kesur1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/bullet_k.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\bullet_k.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/100th/images/baltej1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\baltej1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/ya1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ya2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ya3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ya4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ya5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ya6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ya7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ya8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ya9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ya9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/meat_gs.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\meat_gs.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/meat_gn.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\meat_gn.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/meat_q.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\meat_q.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/meat_au.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\meat_au.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/images/kandh.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\kandh.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/hatt.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\hatt.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/gurukabagh.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\gurukabagh.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/kothi.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\kothi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/ber1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\ber1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/ber2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\ber2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/achal.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\achal.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/derananak1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\derananak1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/derananak2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\derananak2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/khadur.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\khadur.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/chaubara1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\chaubara1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/chaubara2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\chaubara2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/san1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\san1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/san2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\san2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/baoli1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\baoli1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/baoli5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\baoli5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/baoli4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\baoli4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/baoli2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\baoli2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/mahl.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\mahl.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden0.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden11.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden10.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden6.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden7.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden9.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden12.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden13.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden13.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden14.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden14.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden15.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden15.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/golden16.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\golden16.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/taran1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\taran1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/taran3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\taran3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/taran2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\taran2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/tham.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\tham.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/bath.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\bath.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/bir_buddha.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\bir_buddha.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/ramsar.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\ramsar.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/wadali1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\wadali1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/wadali2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\wadali2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/akal1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\akal1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/miri-piri.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\miri-piri.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/babeksar1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\babeksar1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/babeksar2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\babeksar2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/lohgarh.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\lohgarh.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/daroli1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\daroli1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/daroli3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\daroli3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/7padshahi.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\7padshahi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/deep_bir1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\deep_bir1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/kcollege.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\kcollege.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/hargobindpur.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\hargobindpur.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/atal.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\atal.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/patal.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\patal.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/bakala1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\bakala1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/bakala2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\bakala2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/dukh1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\dukh1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/dukh2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\dukh2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/bahadurgarh.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\bahadurgarh.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/padishah9.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\padishah9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/vibhore1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\vibhore1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/vibhore2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\vibhore2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/qila.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\qila.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/ghat.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\ghat.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/bhatha.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\bhatha.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/bhadaur2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\bhadaur2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/bhadaur1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\bhadaur1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/anandpur1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\anandpur1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/anandpur3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\anandpur3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/anandpur2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\anandpur2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/anandpur5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\anandpur5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/anandpur4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\anandpur4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/vichhora2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\vichhora2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/vichhora1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\vichhora1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/garhi.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\garhi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/katalgarh.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\katalgarh.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/charan_k.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\charan_k.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/chubara_machi.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\chubara_machi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/ghani1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\ghani1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/ghani2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\ghani2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/katana.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\katana.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/alamgir.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\alamgir.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/phalahi.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\phalahi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/raikot.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\raikot.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/fatehgarh1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\fatehgarh1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/fatehgarh2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\fatehgarh2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/zafarnama.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\zafarnama.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/gangsar.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\gangsar.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/tibbi.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\tibbi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/muktsar2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\muktsar2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/muktsar1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\muktsar1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/sahid_ganj.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\sahid_ganj.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/haji.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\haji.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/damdama1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\damdama1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/damdama3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\damdama3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/damdama2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\damdama2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/buddha1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\buddha1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/buddha2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\buddha2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/kaulsar.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\kaulsar.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/images/deep.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\images\deep.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/english/comp1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\comp1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/english/comp2.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\comp2.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/english/ybullet.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\ybullet.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/english/compare.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\compare.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/english/eg1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg10.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg10.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg12.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg12.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg14.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg14.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg15.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg15.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg16.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg16.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg17.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg17.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg20.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg20.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg21.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg21.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg22.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg22.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg23.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg23.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg24.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg24.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg27.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg27.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg29.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg29.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg30.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg30.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg31.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg31.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg32.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg32.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg33.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg33.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg34.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg34.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg36.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg36.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg37.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg37.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg38.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg38.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg39.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg39.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg40.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg40.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg41.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg41.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg42.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg42.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg43.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg43.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg44.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg44.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg45.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg45.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg46.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg46.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg47.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg47.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg48.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg48.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg49.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg49.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg50.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg50.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg51.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg51.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg52.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg52.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg53.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg53.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg54.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg54.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg56.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg56.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg57.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg57.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg59.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg59.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg60.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg60.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg61.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg61.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg62.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg62.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg64.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg64.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg65.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg65.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg66.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg66.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg67.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg67.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg68.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg68.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg69.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg69.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg70.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg70.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg71.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg71.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg73.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg73.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg74.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg74.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg75.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg75.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg76.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg76.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg77.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg77.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg80.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg80.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg81.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg81.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg82.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg82.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg83.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg83.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg84.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg84.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg85.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg85.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg87.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg87.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg88.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg88.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg89.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg89.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg90.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg90.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg91.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg91.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg92.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg92.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg93.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg93.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg94.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg94.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg95.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg95.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg96.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg96.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg97.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg97.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg98.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg98.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg100.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg100.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg103.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg103.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg104.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg104.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg105.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg105.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg106.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg106.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg107.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg107.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg108.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg108.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg109.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg109.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg110.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg110.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg111.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg111.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg112.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg112.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg113.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg113.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg114.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg114.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg115.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg115.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg116.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg116.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg118.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg118.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg119.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg119.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg120.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg120.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg121.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg121.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg122.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg122.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg123.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg123.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg124.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg124.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg125.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg125.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg126.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg126.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg127.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg127.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg128.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg128.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg129.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg129.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg130.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg130.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg131.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg131.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg132.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg132.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg133.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg133.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg134.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg134.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg135.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg135.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg136.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg136.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/japji/j1a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j1a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j1b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j1b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j1c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j1c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j1d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j1d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j2a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j2a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j2b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j2b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j3a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j3a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j3b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j3b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j3c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j3c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j3d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j3d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j4a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j4a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j4b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j4b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j5a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j5a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j5b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j5b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j5c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j5c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j6a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j6a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j6b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j6b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j7a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j7a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j7b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j7b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j8a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j8a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j8b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j8b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j9a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j9a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j9b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j9b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j10a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j10a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j10b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j10b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j11a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j11a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j11b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j11b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j12a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j12a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j12b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j12b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j13a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j13a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j13b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j13b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j14a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j14a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j14b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j14b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j15a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j15a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j15b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j15b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j16a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j16a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j16b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j16b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j16c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j16c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j16d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j16d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j16e.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j16e.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j16f.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j16f.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j17a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j17a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j17b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j17b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j17c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j17c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j18a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j18a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j18b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j18b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j18c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j18c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j19a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j19a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j19b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j19b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j19c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j19c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j19d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j19d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j20a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j20a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j20b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j20b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j20c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j20c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j21a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j21a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j21b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j21b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j21c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j21c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j21d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j21d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j21e.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j21e.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j22a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j22a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j22b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j22b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j23.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j23.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j24a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j24a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j24b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j24b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j24c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j24c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j24d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j24d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j25a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j25a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j25b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j25b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j25c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j25c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j25d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j25d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j25e.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j25e.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j26a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j26a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j26b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j26b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j26c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j26c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j26d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j26d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j26e.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j26e.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j26f.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j26f.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j26g.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j26g.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j27a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j27a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j27b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j27b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j27c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j27c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j27d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j27d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j27e.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j27e.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j27f.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j27f.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j28a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j28a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j28b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j28b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j29a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j29a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j29b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j29b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j30a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j30a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j30b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j30b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j31a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j31a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j31b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j31b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j32a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j32a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j32b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j32b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j33a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j33a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j33b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j33b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j34a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j34a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j34b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j34b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j34c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j34c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j35a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j35a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j35b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j35b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j35c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j35c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j36a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j36a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j36b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j36b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j37a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j37a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j37b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j37b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j37c.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j37c.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j37d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j37d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j37e.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j37e.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j38a.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j38a.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/j38b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\j38b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/slok1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\slok1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/japji/slok2.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\japji\slok2.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/golden28.ram
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\golden28.ram
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/golden/golden56.ram
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\golden56.ram
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/golden/goldenisdn.ram
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\goldenisdn.ram
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/golden/golden.zip
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\golden.zip
+Content Type: application/zip
+
+Uri: http://www.sikhs.org/golden/gall9.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall9.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/gall10.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall10.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/other.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\other.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/gall1.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall1.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/gall2.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall2.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/gall3.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall3.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/gall4.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall4.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/gall5.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall5.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/gall6.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall6.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/gall7.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall7.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/gall8.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall8.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/pano9.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\pano9.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/pano8.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\pano8.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/pano7.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\pano7.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/pano6.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\pano6.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/pano5.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\pano5.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/pano4.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\pano4.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/pano3.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\pano3.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/pano2.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\pano2.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/pano1.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\pano1.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/vtour.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\vtour.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/t_pano.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\t_pano.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/drawing1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\drawing1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/plan1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\plan1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/t_movie.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\t_movie.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/d_28.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\d_28.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/d_56.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\d_56.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/d_isdn.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\d_isdn.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/d_zipf.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\d_zipf.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/rplayer.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\rplayer.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/t_links.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\t_links.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall9s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall9s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall10s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall10s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/bullet.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\bullet.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/t_photos1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\t_photos1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall1s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall1s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall2s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall2s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall3s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall3s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall4s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall4s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall5s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall5s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall6s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall6s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall7s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall7s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall8s.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall8s.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/ball_o.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\ball_o.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/copyrigh.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\copyrigh.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/wedding/wed1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed9.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed6.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed7.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed8.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed10.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed11.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed12.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed13.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed13.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed14.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed14.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed15.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed15.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed16.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed16.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed17.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed17.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed18.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed18.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed19.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed19.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed21.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed21.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed20.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed20.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed22.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed22.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed23.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed23.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed24.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed24.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed25.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed25.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed26.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed26.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed27.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed27.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed7a.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed7a.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/wed28.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed28.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed29.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed29.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed30.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed30.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed31.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed31.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed36.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed36.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed35.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed35.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed37.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed37.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed39.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed39.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed40.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed40.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed41.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed41.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed42.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed42.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed43.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed43.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed44.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed44.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wedding/wed38.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\wed38.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/akali.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\akali.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/gujranwalajats.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\gujranwalajats.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/lahorejats.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\lahorejats.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/raja1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\raja1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/26regiment.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\26regiment.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/raghbir.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\raghbir.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/big_fam.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\big_fam.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/cavalry.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\cavalry.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/officers.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\officers.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/3coronation.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\3coronation.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/1coronation.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\1coronation.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/railwayw.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\railwayw.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/hasting.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\hasting.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/ragis.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\ragis.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/group.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\group.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/budhsingh.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\budhsingh.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/aristo.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\aristo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/family.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\family.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/victoria.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\victoria.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/komag.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\komag.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/sikh_ww1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\sikh_ww1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/grewal.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\grewal.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/funeral.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\funeral.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/meharfamily.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\meharfamily.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/gill.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\gill.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/couple.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\couple.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/womengr.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\womengr.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/gill_fam.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\gill_fam.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/khalsa_c.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\khalsa_c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/harchand.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\harchand.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/memories/images/tiger.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\images\tiger.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/oldsoldier.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\oldsoldier.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s16.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s16.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s26.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s26.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s37.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s37.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s28.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s28.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s33.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s33.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s34.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s34.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s8.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s49.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s49.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s36.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s36.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s20.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s20.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s35.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s35.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s14.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s14.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s15.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s15.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s9.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s13.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s13.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s19.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s19.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s23.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s23.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s17.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s17.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s44.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s44.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s31.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s31.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war6.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war7.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war8.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war9.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war10.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war11.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/war12.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\war12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s45.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s45.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/100th/images/s39.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\images\s39.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/english/eg11.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg11.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg13.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg13.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg18.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg18.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg19.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg19.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg25.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg25.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg26.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg26.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg28.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg28.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg35.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg35.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg55.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg55.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg58.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg58.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg63.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg63.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg72.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg72.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg78.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg78.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg79.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg79.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg86.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg86.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg99.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg99.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg101.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg101.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg102.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg102.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/english/eg117.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\english\eg117.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/index.html
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\index.html
+Content Type: text/html
+
+Uri: http://www.sikhs.org/golden/t_photos2.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\t_photos2.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall9.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/golden/b_back.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\b_back.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall10.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/ww1/
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ww1\index.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/wedding/
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wedding\index.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/other1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\other1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/other2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\other2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/other3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\other3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/other4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\other4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/other5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\other5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/other6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\other6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/other7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\other7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/other8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\other8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/whatnew.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\whatnew.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/message.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\message.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/dad.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\dad.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/sitemap.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sitemap.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/rkhanda.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\rkhanda.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/b_vtour.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\b_vtour.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/ban_ww1.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ban_ww1.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/b_wedding.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\b_wedding.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/mon_sc.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\mon_sc.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/bullet_k.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\bullet_k.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gld_sm.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gld_sm.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/wp_goind.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\wp_goind.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/nc_circle.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\nc_circle.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/nc_whatsnew.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\nc_whatsnew.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/nc_comments.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\nc_comments.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/nc_dedication.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\nc_dedication.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/nc_categories.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\nc_categories.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/nc_sitemap.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\nc_sitemap.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/copyrigh.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\copyrigh.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/golden/gall1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/golden/gall2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/golden/gall3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/golden/gall4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/golden/gall5.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/golden/gall6.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/golden/gall7.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/golden/gall8.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\golden\gall8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/new.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\new.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/nc_mainpg.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\nc_mainpg.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\index.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/memories/
+File Name: c:\Downloaded Web Sites\www.sikhs.org\memories\index.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/bibl.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\bibl.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/ani_mon.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ani_mon.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/mseditors.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\mseditors.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/sandeep4.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sandeep4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/sitemap_top.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sitemap_top.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/sitemap_bottom.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sitemap_bottom.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/gurdwaras/rkhanda.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\rkhanda.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/t_gurdw.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\t_gurdw.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/zafarnama.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\zafarnama.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/sandeep1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\sandeep1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/gld_sm.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\gld_sm.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/gurdwaras/bullet_k.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\bullet_k.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/wp_goind.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\wp_goind.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/nc_circle.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\nc_circle.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/nc_whatsnew.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\nc_whatsnew.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/nc_comments.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\nc_comments.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/nc_dedication.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\nc_dedication.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/nc_categories.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\nc_categories.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/nc_sitemap.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\nc_sitemap.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gurdwaras/copyrigh.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gurdwaras\copyrigh.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/1984a.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984a.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984b.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984b.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984c.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984c.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/title19b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\title19b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/bef_s.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\bef_s.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/burn_s.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\burn_s.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/bullet_ob.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\bullet_ob.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/circle4b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\circle4b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/copy2.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\copy2.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/sitemap_0.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sitemap_0.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/sitemap_1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sitemap_1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/sitemap_2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sitemap_2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/sitemap_3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sitemap_3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/sitemap_4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sitemap_4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/sm_intro.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sm_intro.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/sm_origins.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sm_origins.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/sm_philos.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sm_philos.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/sm_life.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sm_life.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/sm_resources.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\sm_resources.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/1984p1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984p1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984p2.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984p2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984p3.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984p3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984p4.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984p4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984p5.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984p5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984p6.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984p6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984p7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984p7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984p8.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984p8.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/1984p9.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\1984p9.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/khanda_d.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\khanda_d.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/gr_in7.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\gr_in7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/hukam0.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\hukam0.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/goodsikh/
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\index.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/100th/
+File Name: c:\Downloaded Web Sites\www.sikhs.org\100th\index.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/audio.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\audio.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/map.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\map.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/akal1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\akal1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/akal3.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\akal3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/akal2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\akal2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/burning.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\burning.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/takht_w.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\takht_w.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/after.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\after.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/parkarm1.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\parkarm1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/parkarm2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\parkarm2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/hukam_nav.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\hukam_nav.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/hukam1.htm
+File Name: c:\Downloaded Web Sites\www.sikhs.org\hukam1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/goodsikh/?ND
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\index-1.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/goodsikh/?MA
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\index-2.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/goodsikh/?SA
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\index-3.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/goodsikh/?DA
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\index-4.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/goodsikh/gsikh1a.avi
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\gsikh1a.avi
+Content Type: video/x-msvideo
+
+Uri: http://www.sikhs.org/goodsikh/gsikh2a.avi
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\gsikh2a.avi
+Content Type: video/x-msvideo
+
+Uri: http://www.sikhs.org/goodsikh/gsikh3a.avi
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\gsikh3a.avi
+Content Type: video/x-msvideo
+
+Uri: http://www.sikhs.org/_autoindex/icons/blank.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\_autoindex\icons\blank.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/_autoindex/icons/up.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\_autoindex\icons\up.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/_autoindex/icons/movie.png
+File Name: c:\Downloaded Web Sites\www.sikhs.org\_autoindex\icons\movie.png
+Content Type: image/png
+
+Uri: http://www.sikhs.org/audio/japji.ra
+File Name: c:\Downloaded Web Sites\www.sikhs.org\audio\japji.ra
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/audio/jaap.ra
+File Name: c:\Downloaded Web Sites\www.sikhs.org\audio\jaap.ra
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/audio/savaiye.ra
+File Name: c:\Downloaded Web Sites\www.sikhs.org\audio\savaiye.ra
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/audio/choupai.ra
+File Name: c:\Downloaded Web Sites\www.sikhs.org\audio\choupai.ra
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/audio/anand.ra
+File Name: c:\Downloaded Web Sites\www.sikhs.org\audio\anand.ra
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/audio/rahras.ra
+File Name: c:\Downloaded Web Sites\www.sikhs.org\audio\rahras.ra
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/audio/k_sohila.ra
+File Name: c:\Downloaded Web Sites\www.sikhs.org\audio\k_sohila.ra
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/audio/ardas.ra
+File Name: c:\Downloaded Web Sites\www.sikhs.org\audio\ardas.ra
+Content Type: audio/x-pn-realaudio
+
+Uri: http://www.sikhs.org/mulmantr.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\mulmantr.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/granthi2.jpg
+File Name: c:\Downloaded Web Sites\www.sikhs.org\granthi2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sikhs.org/raudio_b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\raudio_b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/ra_bult.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\ra_bult.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/hukamnama_w.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\hukamnama_w.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/hukamnama_r.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\hukamnama_r.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/hukamnama_b.gif
+File Name: c:\Downloaded Web Sites\www.sikhs.org\hukamnama_b.gif
+Content Type: image/gif
+
+Uri: http://www.sikhs.org/goodsikh/?NA
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\index-5.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/goodsikh/?MD
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\index-6.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/goodsikh/?SD
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\index-7.htm
+Content Type: text/html
+
+Uri: http://www.sikhs.org/goodsikh/?DD
+File Name: c:\Downloaded Web Sites\www.sikhs.org\goodsikh\index-8.htm
+Content Type: text/html
+
