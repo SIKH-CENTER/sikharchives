@@ -1,1 +1,1 @@
-[www.sikhmuseum.com](https://archives.sikh.center/www.sikhmuseum.com/index.html)
+[www.sikhmuseum.com](https://archives.sikh.center/www.sikhmuseum.com/index.htm)
