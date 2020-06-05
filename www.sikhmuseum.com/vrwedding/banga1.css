@@ -1,0 +1,162 @@
+@charset "utf-8";
+body {
+	background-color: #E6E6E6;
+
+}
+.body1 {
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+.pic1 {
+	float: left;
+	padding-bottom: 15px;
+	padding-right: 15px;
+}
+.pagecontent1 {
+	width: 920px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #790000;
+	margin-top: 0px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+
+}
+
+.clear{
+clear:both;
+}
+
+.links1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	padding-top: 30px;
+}
+
+.links1 a {
+	text-decoration: underline;
+	color: #D7D700;
+	line-height: 30px;
+}
+
+.links1 A:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+
+.footer1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #CCC;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.footer1 a {
+	color: #D7D700;
+	text-decoration: underline;
+}
+
+.footer1 A:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+.header1 {
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #E6E6E6;
+	clip: rect(auto,auto,auto,auto);
+	width: 920px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.copyright {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #999;
+	font-size: 11px;
+}
+.copyright A:hover {
+text-decoration: underline;
+}
+.pagetitle1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #FFF;
+	float: left;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-weight: normal;
+}
+.pano1 {
+	float: left;
+	width: 910px;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #FFF;
+}
+.panoinst1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #D7D700;
+	text-align: center;
+	float: none;
+}
+.returnback1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+.returnback1 a {
+	color: #D7D700;
+	text-decoration: none;
+}
+
+.returnback1 a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+.intro1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #CCC;
+}
+.sikhmuseum1 {
+	float: right;
+}
+.headertitle1 {
+	float: left;
+}
+.copyright a {
+	text-decoration: none;
+	color: #999;
+	font-weight: bold;
+}
+.explain1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #CCC;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: justify;
+	padding-bottom: 10px;
+}
+.rounded-corners {
+     -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+}
+.currentlink {
+	color: #FFF;
+}

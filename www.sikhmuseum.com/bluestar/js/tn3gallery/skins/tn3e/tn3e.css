@@ -1,0 +1,135 @@
+@charset "utf-8";
+
+.tn3e-gallery {
+	position:relative;
+	width: 900px;
+	height: 850px;
+	background-color:#313131;
+	/* [disabled]background-image: url('grad.jpg'); */
+	background-position:center center;
+	background-repeat:no-repeat;
+	line-height: normal;
+}
+.tn3e-image {
+	position:absolute;
+	left: 5px;
+	top: 75px;
+	width: 900px;
+	height: 615px;
+	background-color: #313131;
+}
+/*
+.tn3e-full-image {
+    box-shadow: 0 0 5px rgba(40, 40, 40, 1);
+    -webkit-box-shadow: 0 0 5px rgba(40, 40, 40, 1); 
+    -moz-box-shadow: 0 0 5px rgba(40, 40, 40, 1); 
+
+} 
+*/   
+
+.tn3e-thumbs ul, .tn3e-thumbs li {
+    margin: 0;
+}
+.tn3e-thumbs {
+	position:absolute;
+	width:900px;
+	height:65px;
+	left:5px;
+	/* [disabled]background-image: url('thumb_bg.png'); */
+	background-repeat:repeat-x;
+	padding-top:2px;
+	top: 0px;
+}
+.tn3e-thumb {
+    padding: 2px;
+    cursor:pointer;
+}
+.tn3e-thumb-selected {
+    cursor:default;
+}
+.tn3e-thumb img {
+    width: 60px;
+    height:60px;
+}    
+.tn3e-next {
+    position:absolute;
+    background-image:url('tn3e.png');
+    background-position:-20px -3px;
+    width: 13px;
+    height: 17px;
+    right:-20px;
+    bottom:450px;
+    cursor:pointer;
+}
+.tn3e-next:hover {
+    background-position:-20px -23px;
+}
+.tn3e-prev {
+    position:absolute;
+    background-image:url('tn3e.png');
+    background-position:-2px -3px;
+    width: 13px;
+    height: 17px;
+    left: -10px;
+    bottom:450px;
+    cursor:pointer;
+}
+.tn3e-prev:hover {
+    background-position:-2px -23px;
+}
+.tn3e-preloader {
+    position:absolute;
+    width: 22px;
+    height: 8px;
+    right:5px;
+    top:5px;
+}
+.tn3e-text {
+	position: absolute;
+	left: 5px;
+	width: 900px;
+	height: 150px;
+	vertical-align:middle;
+	overflow: hidden;
+	bottom: 0px;
+	color: #FFF;
+}
+.tn3e-image-title {
+	font-family: Arial, Helvetica, sans-serif;
+	color:#FFF;
+	font-size:12px;
+	width:100%;
+	text-align:center;
+	font-weight:normal;
+}
+.tn3e-image-description {
+	font-family: Arial, Helvetica, sans-serif;
+	color:#FFF;
+	width:100%;
+	text-align:center;
+	font-size:12px;
+}
+.slideno {
+	font-family: Arial, Helvetica, sans-serif;
+	color:#999;
+	font-size:10px;
+	text-align: right;
+}
+.tn3e-timer {
+    position:absolute;
+    width: 100%;
+    height: 4px;
+    bottom: 0px;
+    background: url('bg.png') repeat;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+/* when javascript is disabled */
+.tn3.album, .tn3.album li {
+    float:left;
+    list-style-type: none;
+    margin:4px;
+}
+.tn3.album div, .tn3.album li h4, .tn3.album li div{
+    display:none;
+}
